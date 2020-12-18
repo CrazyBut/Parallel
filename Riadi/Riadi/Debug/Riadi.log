@@ -1,0 +1,19 @@
+﻿  cpp_accumulator.cpp
+C:\Users\CrazyB\AppData\Local\Temp\Rar$DRa26112.13442\row-master\cpp_accumulator.cpp(22,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\CrazyB\AppData\Local\Temp\Rar$DRa26112.13442\row-master\cpp_accumulator.cpp(51,23): warning C4018: <: несоответствие типов со знаком и без знака
+  num_threads.cpp
+  run_experiments.cpp
+C:\Users\CrazyB\AppData\Local\Temp\Rar$DRa26112.13442\row-master\run_experiments.cpp(15,134): warning C4244: =: преобразование "_Rep" в "double", возможна потеря данных
+          with
+          [
+              _Rep=__int64
+          ]
+  Source.cpp
+  Создание кода...
+  omp_accumulator.c
+C:\Users\CrazyB\AppData\Local\Temp\Rar$DRa26112.13442\row-master\omp_accumulator.c(25,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\CrazyB\AppData\Local\Temp\Rar$DRa26112.13442\row-master\omp_accumulator.c(66,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\CrazyB\AppData\Local\Temp\Rar$DRa26112.13442\row-master\omp_accumulator.c(77,16): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\CrazyB\AppData\Local\Temp\Rar$DRa26112.13442\row-master\omp_accumulator.c(110,16): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\CrazyB\AppData\Local\Temp\Rar$DRa26112.13442\row-master\omp_accumulator.c(123,16): warning C4018: <: несоответствие типов со знаком и без знака
+  Riadi.vcxproj -> C:\Users\CrazyB\source\repos\Riadi\Debug\Riadi.exe
